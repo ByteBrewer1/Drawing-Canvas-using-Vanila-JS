@@ -1,5 +1,5 @@
-Drawing Canvas using Vanila JS
-==============================
+Drawing Canvas using Vanilla JS
+===============================
 
 Drawing Canvas is an extensible, open source (BSD-licensed), HTML5 / JS drawing
 widget.
